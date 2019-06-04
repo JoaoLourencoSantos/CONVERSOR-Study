@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1558614829 source:c:\users\loure\onedrive\faculdade\algoritmo\c\conversao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+	<math.h>
+
+1558614970 source:c:\users\flash\onedrive\faculdade\algoritmo\c\conversao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+	<math.h>
+
